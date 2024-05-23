@@ -32,6 +32,7 @@ model_training: Split the data, apply oversampling, initialize and train a Naive
 model_evaluation: Evaluate the model using accuracy, precision, recall, F1 score, and other metrics.
 
 
+
 **Installation**
 
 To run this project, ensure you have the following libraries installed:
@@ -44,14 +45,17 @@ nltk
 scikit-learn
 imblearn
 
+
 **You can install these libraries using pip:**
 
 pip install <'library name'>
+
 
 **Results**
 
 The model's performance is evaluated based on various metrics, 
 providing a comprehensive understanding of its effectiveness in detecting spam messages.
+
 
 **License**
 
